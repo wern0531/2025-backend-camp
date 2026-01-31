@@ -1,0 +1,36 @@
+[33mcommit 054f4ff5c9f0e818c5cccddcc323df47e766b31a[m
+Author: gonsakon <gonsakon@gmail.com>
+Date:   Mon Dec 29 12:45:28 2025 +0800
+
+    feat: 初始化專案
+
+[33mcommit dcbeb54daf7500ec1fb69f0c849c3deecfbc6588[m
+Author: gonsakon <gonsakon@gmail.com>
+Date:   Mon Dec 29 12:45:28 2025 +0800
+
+    初階任務第一次修改
+
+[33mcommit 0fec62f8bb8c1a70aa99d59498cf97487a542b48[m
+Author: wern0531 <wern780531@hotmail.com>
+Date:   Sat Jan 31 21:00:34 2026 +0800
+
+    初階任務第一次修改
+
+[33mcommit 3a3f98c21e488cf0d2b96d9ff82898827db788c0[m
+Author: wern0531 <wern780531@hotmail.com>
+Date:   Sat Jan 31 21:07:14 2026 +0800
+
+    初階任務第二次修改
+
+[33mcommit 67ef3e6bc96cb6b8b1708cfffa846bfb6fa5fc6c[m
+Merge: 3a3f98c 054f4ff
+Author: wern0531 <wern780531@hotmail.com>
+Date:   Sat Jan 31 21:12:00 2026 +0800
+
+    初階任務：第一次更新
+
+[33mcommit 39fc939bacec5f63420cfc01a236dac93077544b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wern0531 <wern780531@hotmail.com>
+Date:   Sat Jan 31 21:17:58 2026 +0800
+
+    初階任務：第二次更新
